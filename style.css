@@ -21,15 +21,35 @@
       color: blue;
       font-size: 2rem;
   }
-  .images{
-    width: 600px;
-    height: 500px;
-    border: solid black 10px;
+  .marg{
+    margin-left: 25%;
+    padding: 5%;
+    height: 100vh;
+    width: 150vw;
   }
-  .img{
-    margin-left: 15%;
-  }
-  
+.aiimg {
+    width: 500px !important;
+    height: 321px !important;
+}
+.pong{
+ margin-left: 20% !important; 
+}
+.pong2{
+  margin-right: 40% !important;
+  width: 800px  ;
+}
+.pongtext{
+  color: aliceblue;
+}
+.pongtext1{
+  color: pink   ;
+}
+.pongtext2{
+  color: white;
+  font-weight: bolder;
+}
+
+
 /* Cool infinite background scrolling animation.
  * Twitter: @kootoopas
  */
